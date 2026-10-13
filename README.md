@@ -1,6 +1,3 @@
-Below is a polished, professional, and ready-to-use profile README based strictly on your resume. Use it as the `README.md` in your `Hassanahmed786/Hassanahmed786` repository.
-
-```markdown
 <div align="center">
 
 <h1>Shaik Hassan Ahmed</h1>
@@ -239,6 +236,3 @@ A Monte Carlo simulation framework that models FIFA World Cup outcomes using his
 <div align="center">
   <sub>Building intelligent systems at the intersection of AI, software engineering, and real-world problem solving.</sub>
 </div>
-```
-
-Direct project, publication, and certification URLs were not visible in the parsed PDF, so they were intentionally omitted instead of using broken `#` placeholders. The older Twitter, MyGov, TechnoSphere, and unrelated project information was also removed because it was not present in the resume.
